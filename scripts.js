@@ -6,3 +6,9 @@ let instructor = {
     numberOfRepos: 200,
   },
 };
+console.log(`Menawer`);
+console.log(`JavaScript`);
+console.log(`careless10`);
+
+
+alert(`استاذ مناور أقوى مدرس ويب`);
